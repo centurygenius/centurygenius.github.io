@@ -12,6 +12,7 @@ Link to deployed site: https://centurygenius.github.io/index.html
 #Author 3: https://www.linkedin.com/in/samuelabiona 
 
 ##**INSTALLATION**
+
 #To get started with our platform, follow these steps:
 
 #Clone the repository: https://github.com/centurygenius/centurygenius.github.io.git
@@ -30,7 +31,8 @@ Copy code
 npm start
 
 ##**USAGE**
-After completing the installation steps, you can start using our platform for streaming:
+
+#After completing the installation steps, you can start using our platform for streaming:
 
 Open your browser to launch the HOMEPAGE.
 Explore the features of the application:
@@ -39,7 +41,8 @@ Trending Tracks: Stay updated with the latest trending tracks.
 Personalized Recommendations: Get music recommendations based on your listening history.
 
 ##**CONTRIBUTING**
-We welcome contributions to Century Genius Music Site! To contribute, please follow these guidelines:
+
+#We welcome contributions to Century Genius Music Site! To contribute, please follow these guidelines:
 
 #Fork the repository.
 Create a new branch:
