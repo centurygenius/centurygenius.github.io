@@ -1,4 +1,4 @@
-/*Layout for header*/
+/*Layout and properties for header*/
 body {
     font-family: Arial, sans-serif;
 }
@@ -13,9 +13,24 @@ header {
     font-weight: bold;
 }
 
-/*Layout for the header heading*/
-.logo-heading {
-    width: 200px;
+/*Layout and properties for the logo and heading*/
+.logo {
+    float: left;
+    width: 40px;
+    height: 40px;
+}
+.logo img {
+    width: 40px;
+    margin-left: 45px;
+}
+
+.logo p{
+    font-style: italic;
+    font-size: x-large;
+    margin-top: -38px;
+    font-weight: bolder;
+    color: green;
+    margin-left: 75px;
 }
 
 /*Layout for nav bar*/
