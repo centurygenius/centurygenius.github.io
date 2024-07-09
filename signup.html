@@ -2,13 +2,19 @@
 <html>
     <head>
         <title>Sign Up</title>
+	<!--====================Styles for Header, Content and Footer Sections===================================-->
         <link rel="stylesheet" href="signup.css">
         <link rel="stylesheet" href="footer.css">
 	<link rel="stylesheet" href="header.css">
         
     </head>
     <body>
+	<!--====================Header Section===================================-->
 	<header>
+			<div class="logo">
+                		<img src="images/logo_icon.png" alt="Coverpage" />
+            			<p>OMS</p>
+		        </div>
 			<nav>
 				<ul>
 					<li><a href="index.html">Home</a></li>
@@ -23,9 +29,7 @@
             <div class="one">
                 <img src="images/login_pic.jpg">
                 <h2>CREATE ACCOUNT</h2>
-                    
                 <form action="" method="POST">
-                    
                     <input type="email" name="email" class="inputOne" placeholder="Email" required>
                     <input type="text" name="username" class="inputOne" placeholder="Username" required>
                     <input type="password" name="password" class="inputOne" placeholder="Password" required>
@@ -39,13 +43,14 @@
                     <div>
                     <p class="two">OR</p>
                     </div>
+		<!--====================Signup using OAuth===================================-->
                     <p>Sign Up with <a href="facebook.com/login">Facebook</a></p>
                     <p>Sign Up with <a href="https://accounts.google.com">Google Account</a></p>
-                    
                 </form>
             </div>
         </div>
     </body>
+    <!--====================Footer Section===================================-->
     <footer id="contact">
         <section class="social-media">
         <ul>
@@ -59,7 +64,7 @@
             <p>Copyright © <span id="copyright-year"></span> - Online Web Music Streaming App - All rights reserved.</p>
         </section>
     </footer>
-    <!-- Script for Footer with dynamic copyright year -->
+    <!-- ========================Script for Footer with dynamic copyright year=========================== -->
 		<script>
 			document.getElementById("copyright-year").textContent = new Date().getFullYear();
 		</script>
