@@ -2,12 +2,18 @@
 <html>
     <head>
         <title>Sign In</title>
+	<!--====================Styles for Header, Content and Footer Sections===================================-->
         <link rel="stylesheet" href="signup.css">
         <link rel="stylesheet" href="footer.css">
 	<link rel="stylesheet" href="header.css">
     </head>
     <body>
+	<!--====================Header Section===================================-->
 	<header>
+			<div class="logo">
+                		<img src="images/logo_icon.png" alt="Coverpage" />
+            			<p>OMS</p>
+		        </div>
 			<nav>
 				<ul>
 					<li><a href="index.html">Home</a></li>
@@ -18,6 +24,7 @@
 				</ul>
 			</nav>
 	</header>
+	<!--====================Login Section===================================-->
         <div class="general"><br>
             <div class="one">
                 <img src="images/login_pic.jpg">
@@ -43,6 +50,7 @@
             </div>
         </div>
     </body>
+    <!--====================Footer Section===================================-->
     <footer id="contact">
         <section class="social-media">
         <ul>
@@ -56,7 +64,7 @@
             <p>Copyright © <span id="copyright-year"></span> - Online Web Music Streaming App - All rights reserved.</p>
         </section>
     </footer>
-    <!-- Script for Footer with dynamic copyright year -->
+    <!-- ======================Script for Footer with dynamic copyright year========================= -->
 		<script>
 			document.getElementById("copyright-year").textContent = new Date().getFullYear();
 		</script>
