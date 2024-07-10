@@ -1,6 +1,6 @@
 ##**Online Web Music Streaming Application**
 
-                  <img src="images/online-music-streaming-image.png" width="300" />
+                  ![online-music-streaming-image](https://github.com/centurygenius/centurygenius.github.io/assets/136092053/d949fdd8-8a6e-4f9b-92d1-b7835fe02902)
 
 ##**INTRODUCTION**
 
