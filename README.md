@@ -1,5 +1,7 @@
 ##**Online Web Music Streaming Application**
 
+                  ![Project screenshot](images/online-music-streaming-image.png)
+
 ##**INTRODUCTION**
 
 Welcome to Online Web Music Streaming Application website, your ultimate destination for exploring and enjoying a vast collection of music from various genres. Our platform offers an immersive experience with curated playlists, trending tracks, and personalized recommendations.
