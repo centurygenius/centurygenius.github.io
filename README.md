@@ -1,6 +1,6 @@
 ##**Online Web Music Streaming Application**
 
-                  <img src="images/online-music-streaming-image.png" />
+                  <img src="images/online-music-streaming-image.png" width="300" />
 
 ##**INTRODUCTION**
 
