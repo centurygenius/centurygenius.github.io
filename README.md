@@ -1,6 +1,6 @@
 ##**Online Web Music Streaming Application**
 
-                  ![online-music-streaming-image](https://github.com/centurygenius/centurygenius.github.io/assets/136092053/d949fdd8-8a6e-4f9b-92d1-b7835fe02902)
+                  ![online-music-streaming-image](images/online-music-streaming-image.png)
 
 ##**INTRODUCTION**
 
@@ -61,4 +61,8 @@ Copy code
 Example:
 #git push origin feature-branch
 Create a pull request describing your changes and wait for approval.
+
+**LICENSING**
+
+#All rights reserved. The code including images and or content remain the property of the team and by extension Holberton School.
 
